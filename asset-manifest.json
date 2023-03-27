@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_project_food_order/static/css/main.3b2c0962.css",
+    "main.css": "/react_project_food_order/static/css/main.30928b54.css",
     "main.js": "/react_project_food_order/static/js/main.d113ef83.js",
     "static/media/meals.jpg": "/react_project_food_order/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/react_project_food_order/index.html",
-    "main.3b2c0962.css.map": "/react_project_food_order/static/css/main.3b2c0962.css.map",
+    "main.30928b54.css.map": "/react_project_food_order/static/css/main.30928b54.css.map",
     "main.d113ef83.js.map": "/react_project_food_order/static/js/main.d113ef83.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2c0962.css",
+    "static/css/main.30928b54.css",
     "static/js/main.d113ef83.js"
   ]
 }
